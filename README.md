@@ -53,23 +53,9 @@
 
 ## Github Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px>
 
-
-<details> 
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-  <br/>
-  <p align="center">
-    <a href="https://github.com/EmilianaABaglioni/github-readme-stats"><img alt="Emiliana Github Stats" src="https://github-readme-stats.vercel.app/api?username=EmilianaABaglioni&show_icons=true&count_private=true&theme=tokyonight" height="192px"/></a>
 <br/>
-  &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EmilianaABaglioni&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Emiliana" height="192px"/>
-  <br/>
-  </p>
-</details>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=EmilianaABaglioni&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Emiliana" height="192px"/>
+<br/>
 
 
-<details>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/EmilianaABaglioni"><img alt="Emiliana Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=EmilianaABaglioni&custom_title=Ifeanyi's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
-</details>
+
